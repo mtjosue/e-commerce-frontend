@@ -38,5 +38,8 @@ const HomePage = () => (
 );
 //
 console.log("nothing");
+console.log("nothing");
+console.log("nothing");
+console.log("nothing");
 
 export default HomePage;
